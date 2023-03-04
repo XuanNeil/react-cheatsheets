@@ -22,6 +22,3 @@
 - Children as a function
 - React context API for Prop Drilling
 - How to set Props to State
-- React Props Pitfalls
-    - React props are not being passed in component
-    - React props key undefined
